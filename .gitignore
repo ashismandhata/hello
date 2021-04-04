@@ -1,0 +1,9 @@
+*.class
+*.log
+# mac
+*.DS_Store
+.secrets
+*.pem
+*.ppk
+.DS_Store
+.DS_Store?
